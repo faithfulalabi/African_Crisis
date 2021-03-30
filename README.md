@@ -43,10 +43,10 @@ My inspiration for taking on this project comes first from the fact I was born i
       ![alt text](https://github.com/faithfulalabi/African_Crisis/blob/main/EDA_GIF.gif?raw=true)
 ## Exploratory Data Analysis
 
-
+Oberservation of the first plot, we can see that for almost all african countries the exachange rates did not start flantuating till after 1960.
 ![alt text](https://github.com/faithfulalabi/African_Crisis/blob/main/exchange_rates.png?raw=true)
 
-Oberservation of the first plot, we can see that for almost all african countries the exachange rates did not start flantuating till after 1960.
+
 
 
 
