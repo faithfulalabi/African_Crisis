@@ -40,7 +40,7 @@ My inspiration for taking on this project comes first from the fact I was born i
 
 
 
-![alt text](https://github.com/faithfulalabi/African_Crisis/blob/main/EDA_GIF.gif?raw=true)
+      ![alt text](https://github.com/faithfulalabi/African_Crisis/blob/main/EDA_GIF.gif?raw=true)
 ## Exploratory Data Analysis
 
 
