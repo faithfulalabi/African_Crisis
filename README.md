@@ -16,7 +16,7 @@ The dataset specifically focuses on the Banking, Debt, Financial, Inflation and 
 
 * __Motivation__: 
 
-My inspiration for taking on this project stems first from the fact I was born in Nigeria and wanted to know the financial history of the country I was born in. The second is to determine which factors are most associated with Systemic Crisis in Africa? and at which annual rate of inflation does an Inflation Crisis become a practical certainty?.
+My inspiration for taking on this project comes first from the fact I was born in Nigeria and wanted to know the financial history of the country I was born in. Second is to determine which factors are most associated with Systemic Crisis in Africa? and at which annual rate of inflation does an Inflation Crisis become a practical certainty?
 
 * __Variables__:
 
@@ -34,6 +34,13 @@ My inspiration for taking on this project stems first from the fact I was born i
 
 5) Inflation Crisis: Inflation is a quantitative measure of the rate at which the average price level of a basket of selected goods and services in an economy increases over a period of time. It is the constant rise in the general level of prices where a unit of currency buys less than it did in prior periods.
 
-All the countries were affected by the Inflation crisis in that period; the most affected countries being Angola, Zambia, Zimbabwe, Algeria.
+
+6) Banking Crisis: A banking crisis is often associated with financial crisis. It refers to a panic or a bank run during which investors sell off assets or withdraw money from savings accounts because they fear that the value of those assets will drop if they remain in a financial institution.
 
 
+
+
+
+## Exploratory Data Analysis
+
+![alt text](https://github.com/faithfulalabi/African_Crisis/blob/main/exchange_rates.png?raw=true)
