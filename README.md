@@ -45,3 +45,11 @@ My inspiration for taking on this project comes first from the fact I was born i
 
 
 ![alt text](https://github.com/faithfulalabi/African_Crisis/blob/main/exchange_rates.png?raw=true)
+
+
+
+Oberservation of the first plot, we can see that for almost all african countries the exachange rates did not start flantuating till after 1960.
+
+
+
+![alt text](https://github.com/faithfulalabi/African_Crisis/blob/main/overrall_default_and_crisis.png?raw=true)
