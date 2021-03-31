@@ -40,16 +40,25 @@ My inspiration for taking on this project comes first from the fact I was born i
 
 
 
-      ![alt text](https://github.com/faithfulalabi/African_Crisis/blob/main/EDA_GIF.gif?raw=true)
+     
 ## Exploratory Data Analysis
+ ![alt text](https://github.com/faithfulalabi/African_Crisis/blob/main/EDA_GIF.gif?raw=true)
 
-Oberservation of the first plot, we can see that for almost all african countries the exachange rates did not start flantuating till after 1960.
+Observation of the first plot, we can see that for almost all african countries the exachange rates did not start flantuating till after 1960.
 ![alt text](https://github.com/faithfulalabi/African_Crisis/blob/main/exchange_rates.png?raw=true)
 
 
 
 
+For the observations from our plot starting with Domestic debt defaults, we can see that on Angola which suffered 10 defaults and Zimbabwe which suffered 30 deafualts were the only 2 countries to suffer domestic debt defaults from 1860-2014.
 
+For Sovereign External Debt Defaults all countries except Mauritius had at lease 1 default between 1860-2014. Central African Republic being the highest with 33 defaults.
+
+For Systemic Crisis between 1860-2014. All countries except Mauritius, Angola, and South Africa had at least 1 Systemic Crisis. The highest being Central African Republic with 19
+
+All countries suffered at least 1 Currency Crisis between the year 1860-2014. Ivory Coast being the least with 1 and Zimbabwe being the highest with 21
+
+All countries had an Inflation Crisis betweent the year 1860-2014. Angola being the highest with 24 and South Africa being the least with 1. 
 ![alt text](https://github.com/faithfulalabi/African_Crisis/blob/main/overrall_default_and_crisis.png?raw=true)
 
 
