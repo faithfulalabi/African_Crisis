@@ -44,12 +44,13 @@ My inspiration for taking on this project comes first from the fact I was born i
 ## Exploring the Data 
  ![alt text](https://github.com/faithfulalabi/African_Crisis/blob/main/EDA_GIF.gif?raw=true)
 
+### Comparing the exchange rates
 Observation of the first plot, we can see that for almost all african countries the exachange rates did not start flantuating till after 1960.
 ![alt text](https://github.com/faithfulalabi/African_Crisis/blob/main/exchange_rates.png?raw=true)
 
 
 
-### Comparing overall Default and Crisis
+c
 For the observations from our plot starting with Domestic debt defaults, we can see that on Angola which suffered 10 defaults and Zimbabwe which suffered 30 deafualts were the only 2 countries to suffer domestic debt defaults from 1860-2014.
 
 For Sovereign External Debt Defaults all countries except Mauritius had at lease 1 default between 1860-2014. Central African Republic being the highest with 33 defaults.
@@ -64,6 +65,10 @@ As for Banking Crisis all countries suffered at least 1 or more Crisis. The coun
 ![alt text](https://github.com/faithfulalabi/African_Crisis/blob/main/overrall_default_and_crisis.png?raw=true)
 
 
-### Comparing Deafaults and Crisis before in dependence
+### Comparing Deafaults and Crisis before independence:
 The plot below shows the count of deafults and crisis that occured in all 13 African countries before their independence.
 ![alt text](https://github.com/faithfulalabi/African_Crisis/blob/main/before_independence_default_and_crisis.png?raw=true)
+
+### Comparing Deafaults and Crisis after independence:
+The plot below shows the count of deafults and crisis that occured in all 13 African countries after their independence.
+![alt text](https://github.com/faithfulalabi/African_Crisis/blob/main/after_independence_default_and_crisis.png?raw=true)
