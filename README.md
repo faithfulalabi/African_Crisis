@@ -81,6 +81,23 @@ The blue line in the plots represents when Sovereign External Debt Defaults occu
 The blue line in the plots represents when Banking Crisis occured and the red line represents when Systemic Crisis Occured. From the plot we cam observe that there is heavy correlation between both. There is roughly about a 86% correlation, meaning that there is a 86% chance a Systemic Crisis occurs whenever a Banking Crisis Occurs. 
 ![alt text](https://github.com/faithfulalabi/African_Crisis/blob/main/banking_crisis_and_systemic_crisis.png?raw=true)
 
-## Answering the first part of our Motivation behind this project: Which factors are most associated with Systemic Crisis in Africa?
-From our plot observations above we can see that the most important factor associated with Systemic Crisis in Africa, is when a Banking Crisis Occurs. The is an 86% chance a Systemic Crisis occurs whenever a Banking Crisis occurs. The second factor is when a Sovereign External Debt Defaults occurs. Though the percentage of a Systemic Crisis occuring is 25% when an Sovereign External Debt Fault occurs, I believe it is high enough to be considered an important factor.
 
+### Comparing when Currency Crisis occured and when Systemic Crisis for all Countries:
+The blue line in the plots represents when a Currency Crisis occured and the red line represents when Inflation Crisis Occured. From the plot we can observe that there is some correlation between both. There is roughly about a 40% correlation, meaning that there is a 40% chance a Systemic Crisis occurs whenever a Currency Crisis occurs. 
+![alt text](https://github.com/faithfulalabi/African_Crisis/blob/main/currency_crisis_and_inflation_crisis.png?raw=true)
+
+### Comparing when Annual Inflation CPI levels and when Inflation Crisis occured for all Countries:
+The blue line in the plots represents when a the Annual Inflation Rates and the red line represents when Inflation Crisis Occured. From the plot we can observe that for almost all countries with the exception of Zimbabwe, whenever the Annual Inflation CPI is greater than or equal to 20% an Inflation Crisis is almost certain.
+![alt text](https://github.com/faithfulalabi/African_Crisis/blob/main/currency_crisis_and_inflation_crisis.png?raw=true)
+
+## Answering our Motivation behind this project: Which factors are most associated with Systemic Crisis in Africa and at which annual rate of inflation does an Inflation Crisis become a practical certainty?
+
+* For which factors are most associated with Systemic Crisis in Africa; From our plot observations above we can see that the most important factor associated with Systemic Crisis in Africa, is when a Banking Crisis Occurs. There is an 86% chance a Systemic Crisis occurs whenever a Banking Crisis occurs. The second factor is when a Sovereign External Debt Defaults occurs. Though the percentage of a Systemic Crisis occuring is 25% when an Sovereign External Debt Fault occurs, I believe it is high enough to be considered an important factor.
+
+* For the question at which annual rate of inflation does an Inflation Crisis become a practical certainty, we can see from our Inflation Crisis observation that for almost all African countries with the exception of Zimbabwe, whenever the Annual Inflation rate is greater than or equal to 20% an Inflation Crisis is almost certain.
+
+## Install
+* Numpy
+* Pandas
+* Matplotlib
+* Seaborn
