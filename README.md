@@ -50,7 +50,7 @@ Observation of the first plot, we can see that for almost all african countries 
 
 
 
-c
+
 For the observations from our plot starting with Domestic debt defaults, we can see that on Angola which suffered 10 defaults and Zimbabwe which suffered 30 deafualts were the only 2 countries to suffer domestic debt defaults from 1860-2014.
 
 For Sovereign External Debt Defaults all countries except Mauritius had at lease 1 default between 1860-2014. Central African Republic being the highest with 33 defaults.
@@ -72,3 +72,15 @@ The plot below shows the count of deafults and crisis that occured in all 13 Afr
 ### Comparing Deafaults and Crisis after independence:
 The plot below shows the count of deafults and crisis that occured in all 13 African countries after their independence.
 ![alt text](https://github.com/faithfulalabi/African_Crisis/blob/main/after_independence_default_and_crisis.png?raw=true)
+
+### Comparing Sovereign External Debt Defaults and Systemic Crisis for all Countries:
+The blue line in the plots represents when Sovereign External Debt Defaults occured and the red line represents when a Systemic Crisis Occured. From the plot we can observe that there is a bit of correlation between both. There is roughly about a 25% correlation, meaning that there is a 25% chance a Systemic Crisis occurs whenever a Sovereign External Debt Default Occurs. 
+![alt text](https://github.com/faithfulalabi/African_Crisis/blob/main/sovereign_defaults_and_systemic_crisis.png?raw=true)
+
+### Comparing when Banking Crisis occured and when Systemic Crisis for all Countries:
+The blue line in the plots represents when Banking Crisis occured and the red line represents when Systemic Crisis Occured. From the plot we cam observe that there is heavy correlation between both. There is roughly about a 86% correlation, meaning that there is a 86% chance a Systemic Crisis occurs whenever a Banking Crisis Occurs. 
+![alt text](https://github.com/faithfulalabi/African_Crisis/blob/main/banking_crisis_and_systemic_crisis.png?raw=true)
+
+## Answering the first part of our Motivation behind this project: Which factors are most associated with Systemic Crisis in Africa?
+From our plot observations above we can see that the most important factor associated with Systemic Crisis in Africa, is when a Banking Crisis Occurs. The is an 86% chance a Systemic Crisis occurs whenever a Banking Crisis occurs. The second factor is when a Sovereign External Debt Defaults occurs. Though the percentage of a Systemic Crisis occuring is 25% when an Sovereign External Debt Fault occurs, I believe it is high enough to be considered an important factor.
+
